@@ -1,0 +1,35 @@
+### Programa para la resolución del Problema de Transporte de PL Método de la Esquina Noroeste 
+
+#### Desarrollado por: Guillermo Montoya
+#### Telegram: https://t.me/matlab_codes
+
+Para ejecutar el programa deberá tener instalado la versión de Matlab 6.5 ó superior.
+
+ - Archivo que deberá ejecutar para arrancar el programa
+   
+   es: "inicio.m" el cual puede ejecutarlo escribiendo
+   
+   directamente-->  inicio  -- en la ventana de comandos
+   
+   de Matlab.
+
+ - Los códigos completos estan regados por internet y en la
+   
+   Universidad José Antonio Páez, o en tu porpia Universidad
+   
+   si deseas obtenerlos directamente del autor deberás de
+   
+   colaborar con una pequeño aporte de 25 USDT en crypto
+   
+   a la siguiente dirección:
+
+   **Red:** Tron (TRC20)
+   
+   **Dirección:** TGp58C74Zk1kAYcodqNehpim5bkWebocjg
+
+   al pagar debe enviar un mensaje por Telegram [https://t.me/matlab_codes](https://t.me/matlab_codes)
+   
+   para darle acceso a un repositorio privado y pueda tener acceso
+
+   al código completo.
+
